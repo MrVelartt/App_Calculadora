@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="val1">Ingrese primer valor</string>
+    <string name="val2">Ingrese segundo valor</string>
+
+    <string name="rb_suma">Sumar</string>
+    <string name="rb_resta">Restar</string>
+    <string name="rb_multiplicacion">Multiplicar</string>
+    <string name="rb_division">Dividir</string>
+
+    <string name="botonRes">Opera Cabron</string>
+    <string name="visorRes">Resultado</string>
+    <string name="editor">Velartt Design ©</string>
+
+</resources>
